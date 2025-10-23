@@ -1,0 +1,1001 @@
+Job Title,Location,Education Level,YearsExperience,Salary
+UX Designer,New York,Bachelor's,1,66600
+Software Engineer,Remote,Bachelor's,9,89300
+DevOps Engineer,San Francisco,High School,2,95400
+Systems Engineer,San Francisco,Bachelor's,5,90500
+Network Engineer,New York,Bachelor's,6,73400
+UX Designer,Remote,Bachelor's,1,48300
+QA Engineer,New York,Bachelor's,2,63700
+Database Administrator,Bengaluru,Bachelor's,2,34700
+Software Engineer,New York,Bachelor's,2,85300
+Data Scientist,San Francisco,High School,2,95600
+Systems Engineer,Toronto,Bachelor's,2,60500
+Database Administrator,New York,Master's,6,91000
+QA Engineer,San Francisco,Bachelor's,12,104400
+Network Engineer,Remote,Bachelor's,6,62900
+Network Engineer,Toronto,High School,1,40600
+HR Specialist,San Francisco,Bachelor's,3,67600
+Marketing Manager,Toronto,Bachelor's,1,52900
+DevOps Engineer,New York,Master's,2,109600
+Business Analyst,Remote,High School,6,55300
+HR Specialist,London,Master's,1,53200
+DevOps Engineer,San Francisco,Master's,0,113100
+Systems Engineer,London,High School,1,56200
+Data Scientist,New York,Master's,7,123700
+HR Specialist,New York,Bachelor's,5,60600
+Product Manager,London,Master's,8,145300
+Database Administrator,London,Bachelor's,0,62300
+Software Engineer,Remote,High School,0,57100
+Marketing Manager,Toronto,Bachelor's,3,58600
+Data Scientist,Bengaluru,Bachelor's,2,45100
+Data Scientist,Toronto,High School,2,62800
+DevOps Engineer,Remote,Master's,6,105400
+Database Administrator,London,Master's,2,75200
+Database Administrator,San Francisco,Master's,8,114700
+Network Engineer,New York,Master's,2,72900
+Software Engineer,Remote,Bachelor's,8,83100
+Systems Engineer,London,Master's,4,84300
+Data Scientist,San Francisco,Bachelor's,3,103800
+Data Scientist,Bengaluru,Bachelor's,4,48000
+DevOps Engineer,Bengaluru,Bachelor's,1,48300
+UX Designer,London,PhD,0,71800
+Business Analyst,London,Bachelor's,4,60800
+Product Manager,San Francisco,Bachelor's,3,129700
+UX Designer,London,Bachelor's,5,71900
+Network Engineer,Remote,Bachelor's,7,67100
+UX Designer,New York,Bachelor's,2,72900
+Database Administrator,Remote,Bachelor's,6,74200
+Business Analyst,Toronto,High School,3,49300
+Network Engineer,San Francisco,Bachelor's,4,79100
+Business Analyst,Bengaluru,Bachelor's,4,31300
+HR Specialist,London,Bachelor's,1,49700
+UX Designer,Remote,Bachelor's,6,64500
+QA Engineer,San Francisco,Bachelor's,2,68300
+UX Designer,London,Master's,3,75700
+Software Engineer,San Francisco,Bachelor's,5,108900
+Software Engineer,London,Bachelor's,3,78700
+HR Specialist,London,Master's,5,66700
+Data Scientist,San Francisco,Bachelor's,8,124800
+Database Administrator,Remote,Master's,5,73800
+Product Manager,San Francisco,Bachelor's,5,142500
+UX Designer,Bengaluru,High School,5,31600
+HR Specialist,Remote,High School,5,41300
+Marketing Manager,San Francisco,Bachelor's,0,72000
+DevOps Engineer,San Francisco,Master's,2,117300
+Systems Engineer,Remote,Master's,7,84400
+QA Engineer,Toronto,Bachelor's,1,47700
+DevOps Engineer,Remote,Bachelor's,1,71100
+Database Administrator,Bengaluru,PhD,7,51900
+Database Administrator,Bengaluru,Bachelor's,4,41800
+Product Manager,San Francisco,Bachelor's,0,111900
+Business Analyst,Toronto,Master's,1,54400
+Marketing Manager,New York,Master's,4,86200
+Software Engineer,New York,PhD,1,93900
+Business Analyst,Remote,Master's,1,51400
+Business Analyst,Remote,Bachelor's,5,57400
+HR Specialist,Toronto,Bachelor's,5,47600
+Data Scientist,Bengaluru,PhD,4,55100
+HR Specialist,Toronto,Master's,7,63700
+Marketing Manager,Toronto,Master's,0,53200
+DevOps Engineer,Toronto,Master's,5,98800
+Software Engineer,Remote,Master's,6,98900
+Network Engineer,New York,Master's,8,97000
+UX Designer,Toronto,Master's,3,66700
+DevOps Engineer,Remote,Bachelor's,4,81400
+Product Manager,New York,High School,11,133900
+DevOps Engineer,Bengaluru,Bachelor's,3,48500
+Business Analyst,Bengaluru,High School,3,31200
+Software Engineer,Remote,Bachelor's,9,87400
+Network Engineer,London,Bachelor's,2,61400
+QA Engineer,San Francisco,High School,11,93400
+QA Engineer,New York,Bachelor's,0,56800
+UX Designer,London,Master's,3,69100
+UX Designer,Toronto,High School,6,61100
+Database Administrator,San Francisco,Bachelor's,3,82800
+Business Analyst,London,Bachelor's,9,76300
+Business Analyst,Toronto,Bachelor's,5,61200
+QA Engineer,New York,Bachelor's,0,54800
+Database Administrator,London,Bachelor's,3,74400
+Marketing Manager,New York,High School,0,53200
+Data Scientist,London,Bachelor's,0,70800
+DevOps Engineer,San Francisco,Bachelor's,3,113100
+Software Engineer,San Francisco,Bachelor's,4,107800
+Database Administrator,New York,Master's,1,77800
+Data Scientist,Remote,High School,3,67500
+Marketing Manager,New York,Bachelor's,4,77000
+QA Engineer,San Francisco,Bachelor's,2,75600
+Business Analyst,Remote,Bachelor's,4,55800
+Marketing Manager,Toronto,PhD,3,72500
+Business Analyst,London,Bachelor's,2,59500
+QA Engineer,Toronto,Bachelor's,7,65100
+HR Specialist,San Francisco,Master's,6,83400
+QA Engineer,Remote,Bachelor's,6,56400
+Network Engineer,San Francisco,Master's,4,90700
+Network Engineer,London,Bachelor's,2,64200
+HR Specialist,Remote,Master's,3,54800
+UX Designer,London,Master's,3,74800
+Marketing Manager,Toronto,Master's,8,78500
+Marketing Manager,New York,Bachelor's,3,74400
+Systems Engineer,San Francisco,High School,5,86200
+Data Scientist,London,PhD,10,143400
+Software Engineer,Toronto,Bachelor's,1,59400
+QA Engineer,San Francisco,Bachelor's,6,83900
+Database Administrator,San Francisco,Master's,4,95200
+Software Engineer,New York,High School,0,72800
+Network Engineer,Remote,Master's,2,58200
+Software Engineer,San Francisco,Bachelor's,6,113300
+Data Scientist,New York,Bachelor's,5,100000
+Product Manager,New York,High School,6,119600
+QA Engineer,San Francisco,High School,0,52500
+DevOps Engineer,Remote,Master's,2,90300
+Marketing Manager,San Francisco,High School,5,83200
+QA Engineer,San Francisco,Bachelor's,3,72400
+Network Engineer,Toronto,Bachelor's,5,57500
+Database Administrator,Bengaluru,Master's,5,43900
+Systems Engineer,Bengaluru,Bachelor's,6,41700
+HR Specialist,San Francisco,Bachelor's,4,70200
+Data Scientist,New York,PhD,4,119600
+UX Designer,Bengaluru,PhD,11,59300
+Product Manager,Bengaluru,Bachelor's,10,69700
+HR Specialist,Bengaluru,Bachelor's,4,31700
+Network Engineer,New York,Bachelor's,1,61200
+UX Designer,Remote,Bachelor's,7,62100
+UX Designer,New York,High School,5,75900
+Software Engineer,Bengaluru,Bachelor's,6,49700
+Network Engineer,London,Bachelor's,0,60700
+Data Scientist,San Francisco,Master's,4,121500
+Systems Engineer,San Francisco,Master's,0,90300
+QA Engineer,Bengaluru,PhD,5,43000
+Business Analyst,Bengaluru,Bachelor's,0,25200
+Business Analyst,London,High School,5,59100
+Marketing Manager,San Francisco,PhD,4,105100
+Data Scientist,Bengaluru,Master's,3,45400
+QA Engineer,New York,Bachelor's,4,69000
+Software Engineer,Remote,Bachelor's,7,85600
+QA Engineer,New York,Bachelor's,5,68100
+Data Scientist,San Francisco,Bachelor's,4,113900
+Business Analyst,Bengaluru,Master's,10,50600
+Marketing Manager,Bengaluru,Master's,1,34500
+Systems Engineer,Bengaluru,High School,6,42700
+Software Engineer,San Francisco,Master's,3,107200
+HR Specialist,New York,High School,7,55500
+HR Specialist,London,Bachelor's,7,61700
+Marketing Manager,London,Bachelor's,9,83600
+HR Specialist,Remote,Bachelor's,7,55000
+Network Engineer,Toronto,Master's,0,53600
+UX Designer,Remote,Bachelor's,4,61200
+Marketing Manager,San Francisco,Bachelor's,0,72000
+Systems Engineer,London,High School,1,61200
+Systems Engineer,New York,Bachelor's,4,85400
+Database Administrator,Remote,Bachelor's,3,58400
+QA Engineer,New York,High School,2,53300
+Network Engineer,London,Bachelor's,0,54600
+Software Engineer,New York,Bachelor's,10,112600
+Database Administrator,Bengaluru,High School,6,40100
+QA Engineer,Toronto,High School,4,47900
+Business Analyst,New York,Master's,2,71000
+QA Engineer,New York,Bachelor's,3,57800
+Business Analyst,New York,Bachelor's,2,55300
+Database Administrator,New York,Master's,6,95600
+UX Designer,San Francisco,Bachelor's,1,73700
+HR Specialist,New York,Bachelor's,0,50600
+Database Administrator,San Francisco,Bachelor's,3,83600
+Database Administrator,Toronto,Bachelor's,2,54000
+Software Engineer,Toronto,Bachelor's,5,77700
+Data Scientist,Bengaluru,Bachelor's,4,51200
+UX Designer,Toronto,High School,11,72800
+Database Administrator,Toronto,Master's,1,60600
+Product Manager,London,Bachelor's,8,124900
+Systems Engineer,Remote,Bachelor's,0,56700
+Network Engineer,London,Bachelor's,3,61600
+Systems Engineer,London,Bachelor's,2,67000
+HR Specialist,San Francisco,Bachelor's,0,58100
+UX Designer,Remote,PhD,3,69200
+DevOps Engineer,Bengaluru,PhD,5,66400
+Product Manager,New York,Bachelor's,6,127100
+Software Engineer,Bengaluru,Master's,10,65300
+Database Administrator,Toronto,Bachelor's,2,58900
+Data Scientist,New York,Bachelor's,5,93300
+QA Engineer,San Francisco,Bachelor's,5,76000
+QA Engineer,London,Bachelor's,1,55100
+Business Analyst,London,Bachelor's,2,57100
+Data Scientist,San Francisco,Bachelor's,2,102400
+Product Manager,London,Bachelor's,6,123900
+Business Analyst,Bengaluru,Bachelor's,0,23900
+QA Engineer,Remote,Master's,5,61200
+DevOps Engineer,Toronto,Master's,5,102700
+UX Designer,Toronto,Master's,5,68800
+Software Engineer,Remote,Bachelor's,3,68000
+QA Engineer,London,Master's,5,78700
+UX Designer,New York,Bachelor's,3,74700
+Business Analyst,London,Master's,0,54900
+Data Scientist,New York,Bachelor's,7,107200
+Network Engineer,Toronto,Bachelor's,5,59300
+Business Analyst,London,Bachelor's,7,70100
+DevOps Engineer,Toronto,Bachelor's,0,73400
+Systems Engineer,Remote,Bachelor's,6,75200
+Product Manager,San Francisco,Bachelor's,5,140700
+UX Designer,Remote,Bachelor's,1,50000
+DevOps Engineer,Toronto,Master's,4,92600
+Marketing Manager,London,Master's,3,76500
+Software Engineer,New York,Master's,3,93700
+UX Designer,Bengaluru,Master's,3,37000
+DevOps Engineer,New York,Master's,7,136400
+Software Engineer,London,Bachelor's,0,69800
+Business Analyst,Remote,Bachelor's,0,49500
+DevOps Engineer,San Francisco,Bachelor's,5,130400
+Network Engineer,Bengaluru,Bachelor's,4,36700
+QA Engineer,Remote,Bachelor's,5,57600
+HR Specialist,Toronto,Bachelor's,10,64000
+Software Engineer,New York,Bachelor's,5,94100
+Data Scientist,Remote,Master's,1,76100
+Business Analyst,Toronto,PhD,12,91600
+Software Engineer,London,Bachelor's,4,81500
+Database Administrator,Toronto,Master's,7,71700
+Business Analyst,Bengaluru,Master's,0,26400
+Business Analyst,New York,Master's,0,62200
+DevOps Engineer,London,Bachelor's,3,91800
+Software Engineer,London,Bachelor's,6,89200
+Systems Engineer,Remote,Bachelor's,10,85900
+Systems Engineer,Remote,High School,1,53500
+Data Scientist,London,PhD,3,104100
+QA Engineer,Bengaluru,High School,4,29600
+Database Administrator,Remote,Bachelor's,4,62300
+Business Analyst,San Francisco,Bachelor's,4,76100
+Business Analyst,San Francisco,Bachelor's,4,74000
+HR Specialist,New York,Bachelor's,8,62000
+Business Analyst,Remote,Bachelor's,8,56800
+Product Manager,Bengaluru,Bachelor's,5,59200
+UX Designer,Remote,Master's,0,53700
+Systems Engineer,London,Bachelor's,3,72500
+Business Analyst,Remote,Bachelor's,7,64600
+Data Scientist,Bengaluru,High School,2,36400
+Software Engineer,Bengaluru,Bachelor's,2,41100
+Systems Engineer,San Francisco,Bachelor's,3,87900
+Marketing Manager,London,Bachelor's,6,76100
+DevOps Engineer,San Francisco,Master's,9,156100
+Systems Engineer,New York,Bachelor's,6,88400
+UX Designer,San Francisco,High School,0,68300
+HR Specialist,London,Master's,2,59800
+DevOps Engineer,New York,Bachelor's,8,117200
+DevOps Engineer,London,Bachelor's,0,85800
+UX Designer,Toronto,Bachelor's,0,48400
+HR Specialist,Remote,Master's,2,50500
+QA Engineer,London,Master's,7,78200
+Software Engineer,New York,Master's,3,96400
+DevOps Engineer,San Francisco,Bachelor's,10,149000
+Database Administrator,London,Bachelor's,5,74200
+Software Engineer,New York,PhD,0,94100
+Database Administrator,Bengaluru,Bachelor's,5,36100
+Product Manager,Remote,Bachelor's,10,122200
+Product Manager,Bengaluru,Master's,5,70100
+Database Administrator,Toronto,Bachelor's,1,56100
+Data Scientist,Bengaluru,Master's,0,39800
+Database Administrator,San Francisco,Bachelor's,3,84300
+DevOps Engineer,New York,Bachelor's,2,92000
+Network Engineer,Bengaluru,Bachelor's,8,37700
+Software Engineer,Toronto,Bachelor's,1,70900
+QA Engineer,Remote,Bachelor's,4,54500
+Network Engineer,Remote,Bachelor's,2,53200
+Network Engineer,Remote,Bachelor's,0,51000
+Systems Engineer,London,Master's,4,90300
+HR Specialist,New York,Bachelor's,0,48800
+UX Designer,London,Master's,6,86600
+Database Administrator,London,Bachelor's,0,63200
+UX Designer,New York,High School,4,69400
+Network Engineer,London,Bachelor's,7,74900
+QA Engineer,London,Master's,6,78600
+UX Designer,Bengaluru,Bachelor's,3,36400
+Product Manager,Bengaluru,Bachelor's,5,60600
+Network Engineer,London,Bachelor's,6,72200
+QA Engineer,San Francisco,High School,1,62700
+Systems Engineer,Bengaluru,Master's,7,49700
+UX Designer,Bengaluru,Master's,7,43800
+UX Designer,Remote,High School,0,46500
+Business Analyst,Toronto,Bachelor's,5,54800
+Database Administrator,London,Bachelor's,3,69200
+HR Specialist,Toronto,Bachelor's,8,56600
+Software Engineer,London,Bachelor's,7,94000
+DevOps Engineer,San Francisco,Bachelor's,4,120800
+HR Specialist,Toronto,Master's,8,60700
+Database Administrator,Remote,Bachelor's,11,79500
+Product Manager,Bengaluru,Master's,0,48500
+Marketing Manager,Bengaluru,Master's,3,37800
+UX Designer,San Francisco,Bachelor's,1,70300
+QA Engineer,Bengaluru,Bachelor's,4,33100
+Network Engineer,San Francisco,Bachelor's,1,72600
+UX Designer,New York,Master's,7,93900
+DevOps Engineer,Toronto,Master's,11,119500
+UX Designer,Remote,Bachelor's,4,61500
+Database Administrator,London,Bachelor's,0,60000
+Data Scientist,San Francisco,Bachelor's,2,98400
+UX Designer,London,Master's,3,73600
+Systems Engineer,San Francisco,PhD,8,133000
+Business Analyst,New York,Bachelor's,5,69200
+Software Engineer,San Francisco,Bachelor's,5,100500
+Marketing Manager,Toronto,Bachelor's,1,53000
+Data Scientist,Bengaluru,Master's,2,46900
+HR Specialist,Remote,Master's,6,61500
+Database Administrator,San Francisco,Bachelor's,3,81300
+Network Engineer,Remote,Bachelor's,7,61900
+HR Specialist,Bengaluru,Bachelor's,2,27100
+HR Specialist,San Francisco,Master's,0,60100
+Business Analyst,Remote,Bachelor's,3,54900
+Network Engineer,New York,Bachelor's,0,61400
+Data Scientist,Bengaluru,Master's,6,60100
+Systems Engineer,San Francisco,Master's,5,109900
+Network Engineer,Toronto,Master's,7,76100
+Marketing Manager,New York,Bachelor's,2,70200
+QA Engineer,San Francisco,Master's,3,81600
+Data Scientist,Bengaluru,Bachelor's,2,44400
+Business Analyst,Bengaluru,Master's,4,40100
+UX Designer,Toronto,High School,6,54000
+QA Engineer,Toronto,PhD,0,58500
+Product Manager,Bengaluru,Bachelor's,8,67800
+Database Administrator,Remote,Bachelor's,5,69700
+QA Engineer,Bengaluru,PhD,8,42900
+QA Engineer,Bengaluru,Master's,3,35400
+Business Analyst,Remote,Bachelor's,3,52300
+Marketing Manager,Bengaluru,Bachelor's,8,37400
+DevOps Engineer,San Francisco,High School,5,108700
+UX Designer,London,High School,9,74800
+QA Engineer,Bengaluru,Bachelor's,0,25800
+UX Designer,San Francisco,PhD,0,80900
+DevOps Engineer,Bengaluru,Bachelor's,6,57600
+Data Scientist,Remote,Bachelor's,5,79600
+DevOps Engineer,San Francisco,Bachelor's,3,109300
+DevOps Engineer,London,Master's,10,132000
+Product Manager,Toronto,Bachelor's,7,107400
+Data Scientist,San Francisco,Bachelor's,0,95300
+Business Analyst,San Francisco,Master's,6,91600
+HR Specialist,Remote,Bachelor's,5,51400
+Business Analyst,Remote,Master's,5,64800
+Systems Engineer,New York,Bachelor's,5,88100
+HR Specialist,Bengaluru,Master's,1,28100
+Product Manager,Toronto,Bachelor's,2,93400
+Marketing Manager,Bengaluru,Bachelor's,2,33000
+Software Engineer,San Francisco,Bachelor's,7,111400
+HR Specialist,Bengaluru,Bachelor's,3,27500
+Database Administrator,Remote,High School,3,46500
+Software Engineer,Toronto,Bachelor's,7,77700
+HR Specialist,Bengaluru,Master's,1,28100
+Software Engineer,London,Bachelor's,11,106900
+DevOps Engineer,Bengaluru,Master's,3,54200
+HR Specialist,Toronto,Bachelor's,1,42100
+Network Engineer,Remote,Bachelor's,1,49600
+QA Engineer,Toronto,Bachelor's,7,62600
+Systems Engineer,Bengaluru,Bachelor's,8,49000
+Systems Engineer,London,High School,9,83600
+HR Specialist,Bengaluru,Master's,7,38200
+Software Engineer,Bengaluru,Bachelor's,4,46100
+Product Manager,Remote,Master's,10,132300
+UX Designer,Bengaluru,Bachelor's,3,35100
+Network Engineer,San Francisco,High School,2,65100
+Marketing Manager,San Francisco,Master's,1,80700
+Database Administrator,Toronto,Master's,4,76300
+Software Engineer,Bengaluru,Bachelor's,1,40100
+Database Administrator,Toronto,PhD,4,78400
+UX Designer,New York,Bachelor's,2,69400
+Data Scientist,Remote,High School,3,62300
+HR Specialist,San Francisco,Master's,7,87300
+Marketing Manager,San Francisco,Bachelor's,0,65600
+Software Engineer,London,PhD,0,92300
+HR Specialist,London,Master's,7,69400
+Systems Engineer,Bengaluru,Master's,0,35200
+Product Manager,London,Bachelor's,8,132900
+HR Specialist,London,Master's,5,62300
+HR Specialist,London,Master's,2,54700
+Data Scientist,Bengaluru,PhD,5,60100
+Software Engineer,Remote,Bachelor's,6,76900
+QA Engineer,New York,Bachelor's,0,57000
+Product Manager,San Francisco,Bachelor's,3,125400
+UX Designer,New York,PhD,6,97800
+UX Designer,New York,Bachelor's,3,72900
+Software Engineer,San Francisco,PhD,0,104200
+Systems Engineer,New York,High School,4,70400
+Database Administrator,San Francisco,Bachelor's,3,87400
+Systems Engineer,San Francisco,Bachelor's,9,114200
+Marketing Manager,Remote,Bachelor's,7,71200
+Data Scientist,Toronto,Bachelor's,5,82500
+Systems Engineer,Bengaluru,Bachelor's,3,39100
+Network Engineer,London,Bachelor's,4,66100
+Product Manager,San Francisco,Bachelor's,4,131300
+Database Administrator,Toronto,Master's,4,63900
+Network Engineer,Remote,High School,4,53200
+Data Scientist,San Francisco,Master's,7,128900
+DevOps Engineer,New York,Bachelor's,1,93100
+Database Administrator,New York,High School,7,75900
+DevOps Engineer,Toronto,Bachelor's,5,85500
+UX Designer,Bengaluru,Bachelor's,3,35200
+HR Specialist,Remote,Bachelor's,4,54000
+Systems Engineer,New York,Bachelor's,5,89100
+Database Administrator,Remote,High School,5,59800
+UX Designer,San Francisco,Bachelor's,6,87600
+Data Scientist,Remote,Bachelor's,2,72400
+DevOps Engineer,Remote,Bachelor's,4,85000
+Database Administrator,New York,Master's,5,95300
+Database Administrator,New York,Master's,3,86600
+Product Manager,Toronto,Bachelor's,7,109700
+HR Specialist,Remote,Master's,3,55600
+Product Manager,New York,Master's,4,131300
+QA Engineer,Remote,High School,1,38200
+Product Manager,New York,Bachelor's,1,109700
+HR Specialist,Bengaluru,Bachelor's,2,22400
+Data Scientist,Bengaluru,Bachelor's,5,46600
+Product Manager,Remote,Bachelor's,2,94800
+Marketing Manager,Remote,Bachelor's,4,63400
+Business Analyst,Bengaluru,Bachelor's,0,22100
+Business Analyst,Remote,Bachelor's,11,71900
+QA Engineer,Remote,Master's,6,68100
+DevOps Engineer,Toronto,PhD,3,101800
+QA Engineer,Bengaluru,Master's,2,32400
+Marketing Manager,Bengaluru,Bachelor's,1,28500
+Network Engineer,Toronto,Bachelor's,5,64200
+DevOps Engineer,London,Bachelor's,9,119000
+Systems Engineer,New York,Bachelor's,1,71500
+DevOps Engineer,Bengaluru,Bachelor's,1,45800
+Systems Engineer,Bengaluru,Bachelor's,2,37300
+Database Administrator,Toronto,Bachelor's,8,72600
+UX Designer,Bengaluru,Bachelor's,4,34700
+Product Manager,New York,PhD,8,176200
+Marketing Manager,London,Master's,2,68900
+Business Analyst,Bengaluru,Bachelor's,7,35500
+Systems Engineer,London,Master's,0,68800
+DevOps Engineer,London,Master's,6,115500
+DevOps Engineer,Toronto,Bachelor's,2,77800
+Network Engineer,London,Bachelor's,11,81800
+QA Engineer,New York,Bachelor's,6,74400
+QA Engineer,San Francisco,Bachelor's,8,93100
+Data Scientist,San Francisco,Bachelor's,2,96000
+Network Engineer,Bengaluru,Bachelor's,5,36000
+Marketing Manager,Toronto,Bachelor's,2,59900
+Systems Engineer,Remote,Bachelor's,7,77600
+Marketing Manager,Remote,PhD,6,86100
+Network Engineer,Bengaluru,Bachelor's,1,28100
+Marketing Manager,New York,Bachelor's,4,72700
+Data Scientist,London,High School,2,76100
+Systems Engineer,Bengaluru,Bachelor's,5,43800
+Network Engineer,San Francisco,Bachelor's,0,63500
+DevOps Engineer,Remote,Bachelor's,9,102800
+Database Administrator,London,Bachelor's,4,69700
+Marketing Manager,Toronto,PhD,6,78500
+QA Engineer,London,Bachelor's,1,54600
+HR Specialist,Remote,Bachelor's,2,47700
+QA Engineer,London,Bachelor's,2,52700
+Product Manager,Remote,Bachelor's,8,112400
+Marketing Manager,London,Bachelor's,2,63900
+DevOps Engineer,London,Master's,4,107700
+Systems Engineer,New York,Master's,1,78200
+Network Engineer,San Francisco,Bachelor's,0,68700
+Product Manager,New York,Bachelor's,10,146600
+Network Engineer,Toronto,Bachelor's,4,60100
+Network Engineer,San Francisco,PhD,3,98000
+Systems Engineer,San Francisco,Master's,4,103200
+Network Engineer,Bengaluru,Bachelor's,6,39200
+DevOps Engineer,Remote,Bachelor's,3,78200
+Database Administrator,Toronto,Bachelor's,1,58500
+Database Administrator,London,PhD,7,102300
+Data Scientist,San Francisco,Bachelor's,11,140100
+DevOps Engineer,San Francisco,Master's,4,127800
+Product Manager,San Francisco,Bachelor's,3,125800
+DevOps Engineer,New York,High School,4,96100
+Network Engineer,Toronto,PhD,0,58100
+Business Analyst,London,Bachelor's,1,53900
+Software Engineer,New York,Bachelor's,6,93700
+QA Engineer,London,Bachelor's,3,64000
+Network Engineer,San Francisco,High School,2,65300
+UX Designer,Bengaluru,Bachelor's,2,32100
+Data Scientist,New York,Bachelor's,4,95300
+Database Administrator,London,PhD,5,97000
+Marketing Manager,Bengaluru,Bachelor's,5,44400
+Marketing Manager,London,Bachelor's,0,56800
+Business Analyst,New York,Bachelor's,8,77800
+DevOps Engineer,Bengaluru,Master's,2,44000
+Data Scientist,New York,High School,7,96300
+HR Specialist,Bengaluru,Bachelor's,0,24600
+Data Scientist,Toronto,High School,1,61300
+UX Designer,Remote,Bachelor's,8,69500
+Software Engineer,San Francisco,High School,0,75500
+Business Analyst,Toronto,Bachelor's,3,56900
+DevOps Engineer,New York,Bachelor's,1,85000
+Systems Engineer,New York,Master's,2,87800
+QA Engineer,Bengaluru,Bachelor's,0,25800
+Database Administrator,Toronto,Master's,10,85500
+Database Administrator,San Francisco,Bachelor's,5,93400
+QA Engineer,Bengaluru,Bachelor's,4,30100
+Marketing Manager,Bengaluru,Bachelor's,4,41200
+DevOps Engineer,Toronto,Bachelor's,3,81100
+HR Specialist,London,High School,2,49400
+Database Administrator,Toronto,Bachelor's,8,70800
+Software Engineer,Toronto,Bachelor's,3,67700
+Network Engineer,New York,High School,8,77800
+Systems Engineer,Remote,Bachelor's,6,75400
+Systems Engineer,London,Bachelor's,3,72000
+UX Designer,New York,Bachelor's,6,84900
+Business Analyst,San Francisco,Bachelor's,2,72100
+Business Analyst,Toronto,PhD,8,84100
+Data Scientist,San Francisco,Master's,6,135700
+Software Engineer,Bengaluru,Bachelor's,6,46200
+Marketing Manager,Remote,Bachelor's,1,46600
+Database Administrator,Bengaluru,Bachelor's,6,41000
+DevOps Engineer,New York,Bachelor's,3,99800
+Systems Engineer,London,Master's,0,73600
+Network Engineer,London,Master's,3,71900
+Network Engineer,Bengaluru,Master's,8,44700
+Data Scientist,Remote,Master's,6,98200
+Systems Engineer,London,Bachelor's,5,79200
+UX Designer,Toronto,Master's,5,68000
+UX Designer,San Francisco,Master's,4,89600
+HR Specialist,New York,Master's,5,75100
+QA Engineer,San Francisco,Bachelor's,0,63200
+UX Designer,San Francisco,Bachelor's,6,92100
+DevOps Engineer,San Francisco,Bachelor's,2,109200
+Data Scientist,New York,Bachelor's,3,90900
+Business Analyst,London,Master's,5,68200
+Database Administrator,Remote,Master's,0,59600
+Database Administrator,London,Bachelor's,5,79100
+Marketing Manager,New York,High School,2,63800
+Marketing Manager,Remote,PhD,0,59200
+DevOps Engineer,Remote,Bachelor's,6,89900
+HR Specialist,London,PhD,2,57000
+QA Engineer,Toronto,Master's,5,65800
+Marketing Manager,Bengaluru,Bachelor's,9,41200
+Data Scientist,Toronto,High School,0,62300
+Software Engineer,Bengaluru,Master's,5,47900
+Network Engineer,London,Bachelor's,2,61300
+Database Administrator,London,Bachelor's,10,95400
+Software Engineer,New York,Bachelor's,7,103000
+Systems Engineer,Remote,Bachelor's,4,69900
+Database Administrator,Toronto,High School,3,52500
+Software Engineer,Remote,Master's,7,92800
+DevOps Engineer,Toronto,Bachelor's,1,72900
+Software Engineer,San Francisco,Bachelor's,1,87800
+Marketing Manager,Toronto,Bachelor's,9,74400
+UX Designer,Bengaluru,PhD,5,48600
+DevOps Engineer,San Francisco,Bachelor's,8,138900
+Database Administrator,Bengaluru,Bachelor's,7,41200
+UX Designer,Bengaluru,Bachelor's,10,49600
+Data Scientist,Bengaluru,Bachelor's,0,35500
+Product Manager,Bengaluru,High School,4,46500
+Product Manager,London,Bachelor's,7,123600
+UX Designer,New York,Master's,6,89400
+Business Analyst,London,Bachelor's,1,54200
+HR Specialist,Remote,High School,4,48500
+Marketing Manager,London,Bachelor's,7,80000
+UX Designer,Bengaluru,Bachelor's,1,32400
+QA Engineer,New York,Master's,5,79100
+Marketing Manager,New York,High School,4,66900
+Product Manager,London,Bachelor's,5,114300
+Product Manager,New York,Bachelor's,7,132600
+HR Specialist,Toronto,Bachelor's,2,44000
+Software Engineer,Remote,High School,0,56700
+QA Engineer,Bengaluru,Bachelor's,5,34000
+HR Specialist,New York,Bachelor's,0,48400
+Systems Engineer,Toronto,Master's,1,66400
+Product Manager,Toronto,Bachelor's,5,99900
+Marketing Manager,Remote,Bachelor's,2,54100
+Marketing Manager,New York,Bachelor's,2,66300
+Systems Engineer,London,Master's,7,103600
+QA Engineer,San Francisco,Bachelor's,5,80800
+DevOps Engineer,Bengaluru,High School,5,52700
+Network Engineer,Bengaluru,High School,1,18500
+Data Scientist,New York,Bachelor's,3,99500
+UX Designer,Toronto,Bachelor's,6,71200
+Systems Engineer,Remote,High School,8,69500
+Business Analyst,London,Bachelor's,2,54500
+QA Engineer,New York,Bachelor's,7,73600
+QA Engineer,Bengaluru,Bachelor's,5,33000
+Data Scientist,San Francisco,Master's,3,118700
+Data Scientist,Bengaluru,Bachelor's,7,52400
+Data Scientist,Remote,Bachelor's,1,68200
+Business Analyst,Bengaluru,Bachelor's,3,34500
+Network Engineer,London,Master's,0,62400
+QA Engineer,Remote,Master's,10,78800
+DevOps Engineer,Bengaluru,Master's,6,60600
+Marketing Manager,Bengaluru,Bachelor's,5,35000
+Systems Engineer,Bengaluru,Master's,7,48600
+QA Engineer,San Francisco,Master's,3,79900
+HR Specialist,San Francisco,Bachelor's,5,72300
+Database Administrator,Toronto,Bachelor's,10,74800
+Network Engineer,San Francisco,High School,5,76300
+Data Scientist,London,Bachelor's,4,91100
+HR Specialist,London,PhD,7,81900
+QA Engineer,London,Bachelor's,3,62500
+Software Engineer,London,Bachelor's,4,82000
+Network Engineer,London,Bachelor's,6,72700
+Database Administrator,Toronto,High School,2,53300
+UX Designer,Bengaluru,Master's,5,46000
+Business Analyst,Bengaluru,Master's,3,28900
+QA Engineer,Bengaluru,Master's,0,28400
+Product Manager,London,Bachelor's,3,108800
+QA Engineer,Toronto,Bachelor's,7,62400
+HR Specialist,Bengaluru,Bachelor's,2,25200
+Product Manager,San Francisco,Bachelor's,9,161400
+Network Engineer,San Francisco,Bachelor's,0,70900
+Database Administrator,Bengaluru,Master's,5,43600
+Systems Engineer,Bengaluru,Bachelor's,5,38900
+Software Engineer,London,Bachelor's,3,80000
+Network Engineer,Bengaluru,Bachelor's,3,34700
+Network Engineer,Bengaluru,Master's,7,39500
+HR Specialist,Remote,Bachelor's,0,40400
+UX Designer,San Francisco,Bachelor's,6,91500
+Marketing Manager,New York,Master's,6,93000
+Business Analyst,Toronto,Bachelor's,5,55500
+Database Administrator,London,Bachelor's,1,63200
+Data Scientist,Bengaluru,Bachelor's,7,52300
+Data Scientist,Toronto,Bachelor's,5,81100
+Marketing Manager,New York,Bachelor's,2,68500
+Network Engineer,San Francisco,Master's,3,87800
+HR Specialist,Remote,Master's,6,57500
+Business Analyst,New York,Master's,7,83500
+Marketing Manager,London,Bachelor's,5,77400
+Product Manager,Toronto,High School,0,71100
+Network Engineer,Bengaluru,Bachelor's,1,27000
+UX Designer,New York,Master's,5,90200
+Product Manager,Remote,Bachelor's,4,95500
+QA Engineer,Bengaluru,Master's,4,34900
+Product Manager,Remote,PhD,4,123500
+Network Engineer,Bengaluru,High School,5,35900
+QA Engineer,New York,Bachelor's,7,77400
+Database Administrator,New York,Master's,6,102700
+Systems Engineer,Remote,Bachelor's,2,55000
+UX Designer,London,Master's,7,87600
+Systems Engineer,Remote,Bachelor's,9,83700
+Data Scientist,Bengaluru,Bachelor's,1,43300
+Data Scientist,Remote,Bachelor's,3,72200
+Network Engineer,New York,Bachelor's,5,75400
+Marketing Manager,San Francisco,Bachelor's,4,89100
+Network Engineer,London,Bachelor's,4,65700
+Software Engineer,New York,Bachelor's,2,82400
+Product Manager,New York,Bachelor's,3,108800
+DevOps Engineer,London,Bachelor's,0,82800
+Product Manager,Bengaluru,Bachelor's,3,55200
+Business Analyst,San Francisco,High School,3,62900
+QA Engineer,Bengaluru,Master's,5,46000
+Database Administrator,Remote,Bachelor's,4,64400
+Business Analyst,San Francisco,High School,1,60300
+Business Analyst,New York,Bachelor's,7,76000
+Database Administrator,Bengaluru,Bachelor's,3,33900
+Database Administrator,Remote,Bachelor's,0,47200
+Systems Engineer,Bengaluru,Master's,6,52600
+Database Administrator,San Francisco,Bachelor's,3,84200
+Systems Engineer,Bengaluru,Bachelor's,4,37800
+UX Designer,London,Bachelor's,3,63500
+Marketing Manager,London,Bachelor's,1,59500
+UX Designer,New York,Bachelor's,4,75200
+Marketing Manager,London,High School,6,66800
+UX Designer,Toronto,Bachelor's,1,56700
+Business Analyst,New York,Bachelor's,5,72600
+Marketing Manager,London,Master's,2,71900
+Database Administrator,London,Master's,4,78100
+UX Designer,Bengaluru,Bachelor's,4,35400
+Network Engineer,London,Bachelor's,12,86900
+Marketing Manager,London,High School,4,59000
+Systems Engineer,Bengaluru,Bachelor's,7,48400
+Marketing Manager,New York,Master's,2,82300
+Systems Engineer,Bengaluru,Bachelor's,1,31400
+Database Administrator,London,Master's,8,93000
+Database Administrator,London,Master's,0,64900
+Network Engineer,London,Bachelor's,8,72300
+Software Engineer,Remote,Master's,1,75000
+HR Specialist,London,Bachelor's,1,47700
+Software Engineer,Toronto,Master's,1,69300
+UX Designer,Remote,High School,8,67200
+Software Engineer,Toronto,Bachelor's,4,69900
+Network Engineer,Bengaluru,Bachelor's,7,43700
+DevOps Engineer,San Francisco,Bachelor's,10,145600
+Database Administrator,London,Bachelor's,3,68700
+Systems Engineer,Remote,Bachelor's,4,67200
+Systems Engineer,Toronto,High School,4,58300
+DevOps Engineer,Remote,Bachelor's,0,68900
+Network Engineer,Remote,Master's,6,68900
+UX Designer,San Francisco,Bachelor's,0,65500
+UX Designer,New York,Bachelor's,0,62900
+UX Designer,Remote,Bachelor's,9,73300
+Software Engineer,London,Master's,0,75700
+Marketing Manager,New York,Bachelor's,0,59900
+Database Administrator,London,PhD,0,77000
+Network Engineer,San Francisco,Bachelor's,3,74000
+Data Scientist,London,Bachelor's,0,73900
+Product Manager,Remote,PhD,5,127700
+HR Specialist,San Francisco,Bachelor's,0,57500
+Systems Engineer,San Francisco,Bachelor's,4,90700
+QA Engineer,London,Bachelor's,5,66100
+QA Engineer,Toronto,Bachelor's,3,52600
+DevOps Engineer,San Francisco,Master's,6,141600
+DevOps Engineer,Bengaluru,Master's,4,52900
+DevOps Engineer,Remote,PhD,7,118000
+Product Manager,New York,Bachelor's,0,97500
+Marketing Manager,New York,Bachelor's,2,72900
+Business Analyst,San Francisco,Bachelor's,12,100000
+UX Designer,Remote,Master's,4,68100
+UX Designer,Bengaluru,Master's,5,46500
+QA Engineer,London,PhD,3,73900
+Data Scientist,Bengaluru,Master's,7,58400
+Software Engineer,London,Master's,6,91600
+QA Engineer,New York,Bachelor's,10,83700
+Marketing Manager,London,Master's,2,72100
+UX Designer,Remote,Bachelor's,7,65900
+UX Designer,London,Bachelor's,7,79200
+Database Administrator,Bengaluru,Bachelor's,6,42700
+UX Designer,London,Bachelor's,6,77000
+Data Scientist,Remote,Bachelor's,6,85800
+Systems Engineer,Bengaluru,Bachelor's,4,37000
+Software Engineer,Toronto,High School,0,49100
+QA Engineer,London,High School,2,50300
+Database Administrator,San Francisco,Master's,4,99700
+UX Designer,New York,Bachelor's,4,72500
+UX Designer,Bengaluru,Master's,3,38900
+Network Engineer,London,High School,0,47400
+UX Designer,Bengaluru,Bachelor's,7,38600
+Data Scientist,San Francisco,Master's,6,131900
+Software Engineer,New York,Bachelor's,0,74600
+DevOps Engineer,Bengaluru,Bachelor's,4,51200
+Data Scientist,New York,Bachelor's,1,86300
+Systems Engineer,Toronto,Master's,0,62200
+Business Analyst,Bengaluru,Bachelor's,2,30300
+Marketing Manager,London,Bachelor's,6,71800
+UX Designer,Remote,Master's,5,74100
+Network Engineer,Toronto,Bachelor's,5,58500
+HR Specialist,Toronto,Bachelor's,0,39900
+Network Engineer,Remote,Bachelor's,2,53300
+Business Analyst,Bengaluru,Master's,2,33300
+UX Designer,New York,Bachelor's,3,72300
+Marketing Manager,Toronto,Master's,1,62200
+HR Specialist,London,Bachelor's,0,43500
+Software Engineer,Remote,Master's,7,88700
+Product Manager,San Francisco,Master's,7,168900
+Marketing Manager,Bengaluru,Bachelor's,4,41900
+Systems Engineer,London,Bachelor's,8,91300
+Data Scientist,Remote,High School,6,73600
+Product Manager,Toronto,Bachelor's,4,96600
+UX Designer,London,Bachelor's,5,71000
+Software Engineer,Bengaluru,Bachelor's,4,41800
+DevOps Engineer,San Francisco,PhD,0,122600
+Data Scientist,Bengaluru,Bachelor's,2,39200
+Data Scientist,Remote,Bachelor's,8,90000
+Systems Engineer,Remote,Master's,6,76700
+UX Designer,Toronto,Bachelor's,3,58600
+Software Engineer,New York,Bachelor's,0,77500
+Product Manager,San Francisco,Bachelor's,8,159200
+Business Analyst,Toronto,Bachelor's,0,49900
+Systems Engineer,New York,Master's,5,95800
+QA Engineer,San Francisco,Bachelor's,2,68800
+Database Administrator,San Francisco,Bachelor's,0,73200
+Systems Engineer,London,Master's,3,78500
+Business Analyst,Toronto,Bachelor's,6,51300
+Software Engineer,London,Bachelor's,4,82000
+Business Analyst,San Francisco,PhD,10,118800
+QA Engineer,London,Bachelor's,6,69400
+Business Analyst,New York,Bachelor's,3,65300
+UX Designer,New York,Bachelor's,4,79600
+Business Analyst,New York,Bachelor's,7,71900
+Product Manager,San Francisco,PhD,5,175700
+Database Administrator,London,Master's,0,64200
+Software Engineer,San Francisco,Bachelor's,4,95900
+DevOps Engineer,New York,Master's,2,107700
+Business Analyst,Remote,PhD,4,68200
+HR Specialist,Toronto,PhD,3,55500
+Data Scientist,Remote,Bachelor's,3,73800
+Data Scientist,Bengaluru,Bachelor's,5,53000
+Marketing Manager,London,Bachelor's,5,75300
+QA Engineer,Toronto,Bachelor's,0,47500
+Data Scientist,Bengaluru,Bachelor's,3,46200
+QA Engineer,San Francisco,Bachelor's,5,80600
+Database Administrator,New York,High School,1,67700
+Network Engineer,Remote,Bachelor's,4,59400
+QA Engineer,London,Bachelor's,10,77600
+Marketing Manager,Remote,High School,7,58900
+Software Engineer,New York,Bachelor's,0,79600
+Marketing Manager,Bengaluru,High School,3,27400
+HR Specialist,Remote,Bachelor's,3,47800
+Data Scientist,Bengaluru,PhD,4,59500
+Network Engineer,Bengaluru,Bachelor's,10,39100
+Data Scientist,New York,High School,4,87900
+Product Manager,Toronto,Bachelor's,5,100100
+Business Analyst,New York,Master's,4,71900
+Business Analyst,London,Master's,6,71500
+Database Administrator,Remote,Bachelor's,5,61400
+Database Administrator,Toronto,Master's,3,67000
+Network Engineer,London,High School,6,64000
+HR Specialist,Toronto,Bachelor's,0,41800
+QA Engineer,London,Bachelor's,5,66800
+Marketing Manager,Toronto,High School,3,51600
+Database Administrator,Bengaluru,Bachelor's,2,35300
+Data Scientist,Remote,Bachelor's,6,84000
+Data Scientist,Remote,PhD,0,76400
+UX Designer,Toronto,Master's,0,59000
+Network Engineer,San Francisco,Master's,5,89300
+HR Specialist,Bengaluru,Bachelor's,0,26200
+Systems Engineer,Bengaluru,Bachelor's,0,33100
+Product Manager,Bengaluru,High School,3,51700
+HR Specialist,Bengaluru,PhD,0,36000
+Network Engineer,New York,Bachelor's,9,87300
+Product Manager,Bengaluru,Bachelor's,6,61500
+Product Manager,Remote,Master's,3,105800
+DevOps Engineer,London,Master's,3,93300
+Business Analyst,Remote,Bachelor's,0,46100
+Marketing Manager,New York,Bachelor's,3,73200
+Data Scientist,New York,High School,0,73700
+Data Scientist,Bengaluru,Master's,3,53100
+Data Scientist,Remote,Bachelor's,6,88100
+Network Engineer,London,Bachelor's,4,69400
+Business Analyst,Toronto,Bachelor's,2,49300
+Software Engineer,Toronto,Bachelor's,6,70300
+QA Engineer,Toronto,High School,1,39300
+Product Manager,Remote,Bachelor's,8,114500
+Data Scientist,Bengaluru,Master's,0,41600
+Product Manager,Remote,Bachelor's,7,109700
+HR Specialist,Remote,Bachelor's,6,51200
+Software Engineer,London,Master's,8,103000
+Database Administrator,London,Bachelor's,4,69300
+Product Manager,New York,Master's,5,138300
+Database Administrator,Toronto,Bachelor's,6,63100
+Systems Engineer,San Francisco,Bachelor's,7,106400
+UX Designer,Bengaluru,Bachelor's,10,54300
+Systems Engineer,New York,Bachelor's,7,95800
+Product Manager,Toronto,Bachelor's,5,101500
+Product Manager,New York,Master's,3,130800
+DevOps Engineer,Toronto,Master's,2,82900
+Systems Engineer,Bengaluru,Bachelor's,7,47400
+QA Engineer,Toronto,Bachelor's,4,56000
+Database Administrator,Remote,Bachelor's,5,63400
+UX Designer,Toronto,Master's,3,64200
+Software Engineer,Toronto,Master's,4,82000
+UX Designer,Remote,Bachelor's,7,69200
+DevOps Engineer,New York,Bachelor's,9,127000
+Business Analyst,London,Master's,5,70900
+Network Engineer,London,Bachelor's,1,57100
+Product Manager,London,Master's,3,115900
+Software Engineer,San Francisco,Bachelor's,5,107400
+Business Analyst,Toronto,Master's,6,61400
+UX Designer,Bengaluru,Bachelor's,4,34100
+Data Scientist,San Francisco,Bachelor's,1,91500
+Network Engineer,Remote,Bachelor's,8,64600
+Software Engineer,New York,Bachelor's,2,77400
+Network Engineer,Toronto,Bachelor's,3,54700
+Systems Engineer,Bengaluru,Bachelor's,4,41100
+HR Specialist,Bengaluru,Bachelor's,0,25600
+Product Manager,San Francisco,Bachelor's,3,129600
+Product Manager,London,Bachelor's,2,96200
+Network Engineer,London,PhD,4,80500
+Database Administrator,Toronto,Bachelor's,9,73600
+Data Scientist,New York,Master's,0,88200
+Business Analyst,San Francisco,Bachelor's,2,67300
+Database Administrator,New York,Bachelor's,1,65200
+UX Designer,New York,Bachelor's,4,76200
+DevOps Engineer,Bengaluru,High School,2,40800
+UX Designer,Bengaluru,Bachelor's,8,45700
+Marketing Manager,Toronto,Bachelor's,6,61600
+Marketing Manager,Bengaluru,Master's,0,36400
+DevOps Engineer,San Francisco,Bachelor's,7,133100
+QA Engineer,New York,Master's,3,73300
+Product Manager,Bengaluru,Bachelor's,7,68300
+Data Scientist,London,Bachelor's,4,88900
+UX Designer,Remote,Bachelor's,6,64800
+Database Administrator,Bengaluru,Bachelor's,3,37100
+QA Engineer,Remote,Bachelor's,4,53500
+DevOps Engineer,New York,High School,5,99000
+Systems Engineer,Bengaluru,Bachelor's,3,33100
+Database Administrator,New York,Master's,4,87100
+Software Engineer,San Francisco,Bachelor's,0,86100
+DevOps Engineer,San Francisco,Master's,5,138900
+Business Analyst,London,High School,2,49200
+DevOps Engineer,London,Bachelor's,9,115800
+Data Scientist,New York,Bachelor's,2,90100
+Marketing Manager,Remote,PhD,5,79500
+HR Specialist,San Francisco,Master's,4,77500
+Business Analyst,Bengaluru,Bachelor's,8,39800
+QA Engineer,Remote,Master's,2,55600
+Systems Engineer,Toronto,Bachelor's,4,68300
+QA Engineer,Remote,Bachelor's,2,45400
+Product Manager,New York,Master's,7,153100
+HR Specialist,Remote,Bachelor's,0,42100
+Software Engineer,Bengaluru,Master's,0,34200
+Software Engineer,Bengaluru,Bachelor's,2,42200
+Data Scientist,London,Bachelor's,2,82200
+Database Administrator,Bengaluru,Bachelor's,3,40200
+Database Administrator,Bengaluru,Bachelor's,2,32800
+Network Engineer,Remote,Bachelor's,6,63400
+HR Specialist,London,Master's,2,57700
+Data Scientist,Bengaluru,Bachelor's,1,38500
+Software Engineer,London,Bachelor's,0,70600
+Business Analyst,Toronto,Bachelor's,5,57900
+Marketing Manager,Remote,Bachelor's,1,48400
+Product Manager,New York,Bachelor's,3,112400
+HR Specialist,New York,Bachelor's,0,50000
+Systems Engineer,Bengaluru,Master's,7,51300
+Database Administrator,Bengaluru,Master's,3,45000
+QA Engineer,New York,Bachelor's,5,67500
+HR Specialist,London,Bachelor's,1,50500
+Network Engineer,London,Bachelor's,7,77300
+Systems Engineer,London,Bachelor's,3,74000
+Business Analyst,New York,Bachelor's,3,63800
+QA Engineer,Remote,Bachelor's,0,46800
+Data Scientist,Toronto,High School,0,56800
+QA Engineer,San Francisco,Bachelor's,4,76900
+Product Manager,London,Bachelor's,0,86400
+Network Engineer,Remote,Bachelor's,7,68000
+Business Analyst,San Francisco,Bachelor's,0,63000
+Data Scientist,San Francisco,Master's,6,139200
+DevOps Engineer,San Francisco,Bachelor's,1,103700
+Business Analyst,Toronto,Bachelor's,5,53800
+Business Analyst,Remote,Bachelor's,7,60000
+Data Scientist,San Francisco,Bachelor's,0,91800
+UX Designer,Bengaluru,High School,12,39900
+Marketing Manager,Toronto,Bachelor's,1,55000
+Database Administrator,Bengaluru,High School,5,40400
+UX Designer,Toronto,Master's,5,71000
+UX Designer,Remote,Bachelor's,7,65600
+Database Administrator,London,Bachelor's,5,73900
+UX Designer,London,Master's,2,70600
+Business Analyst,Bengaluru,Bachelor's,3,33900
+Data Scientist,Bengaluru,Bachelor's,2,43500
+Marketing Manager,Remote,Bachelor's,3,61500
+DevOps Engineer,London,PhD,0,102500
+Database Administrator,New York,Bachelor's,0,60600
+Product Manager,Toronto,High School,2,72600
+Data Scientist,London,Master's,8,120100
+Marketing Manager,Bengaluru,High School,6,31700
+Software Engineer,New York,Bachelor's,5,98300
+Product Manager,London,High School,5,107900
+Data Scientist,Remote,Master's,6,96500
+Data Scientist,Toronto,Bachelor's,5,78700
+Database Administrator,Toronto,Bachelor's,2,58800
+HR Specialist,Bengaluru,Bachelor's,5,31400
+Database Administrator,Toronto,Master's,6,80000
+Network Engineer,New York,Bachelor's,5,77800
+Marketing Manager,Toronto,Bachelor's,4,56300
+UX Designer,San Francisco,Master's,1,80400
+Product Manager,Toronto,Bachelor's,2,85900
+Marketing Manager,Toronto,Bachelor's,4,62700
+Business Analyst,New York,Bachelor's,5,68900
+Marketing Manager,New York,Bachelor's,6,84300
+Product Manager,Remote,Master's,7,117700
+Data Scientist,Toronto,Bachelor's,5,82900
+UX Designer,San Francisco,Bachelor's,2,75200
+Software Engineer,San Francisco,Bachelor's,5,100900
+Network Engineer,Bengaluru,Bachelor's,7,40500
+Marketing Manager,Toronto,Master's,2,63300
+QA Engineer,Toronto,High School,1,46800
+Business Analyst,London,Bachelor's,5,60000
+Product Manager,London,High School,0,86300
+HR Specialist,Bengaluru,Master's,3,33100
+Product Manager,Remote,Master's,3,105000
+Database Administrator,New York,Bachelor's,6,86300
+UX Designer,Remote,Master's,4,65700
+Product Manager,New York,Bachelor's,4,119600
+Product Manager,New York,Master's,0,113900
+QA Engineer,Remote,Bachelor's,6,62500
+HR Specialist,London,Master's,7,75600
+DevOps Engineer,Remote,Bachelor's,5,90600
+UX Designer,Toronto,Bachelor's,9,71000
+Business Analyst,London,Bachelor's,5,60500
+Data Scientist,Toronto,Master's,3,85400
+UX Designer,San Francisco,Bachelor's,6,93700
+Product Manager,London,Bachelor's,4,108400
+UX Designer,Remote,Bachelor's,1,56900
+UX Designer,Bengaluru,Master's,4,36500
+Business Analyst,Toronto,Bachelor's,7,64800
+Network Engineer,New York,Bachelor's,5,71900
+DevOps Engineer,Toronto,Bachelor's,6,88400
+HR Specialist,Remote,Bachelor's,7,55400
+Product Manager,San Francisco,Bachelor's,9,165000
+UX Designer,Remote,Master's,1,68000
+Network Engineer,Remote,Bachelor's,5,56500
+QA Engineer,New York,Bachelor's,4,69800
+UX Designer,Remote,Bachelor's,3,57000
+HR Specialist,Toronto,High School,2,39200
+Product Manager,New York,Bachelor's,1,106900
+Product Manager,London,Master's,4,124300
+Business Analyst,San Francisco,Master's,7,93400
+Product Manager,Bengaluru,PhD,5,75200
+Systems Engineer,San Francisco,Bachelor's,2,84100
+Business Analyst,San Francisco,PhD,5,99400
+Data Scientist,London,Master's,3,94000
+Data Scientist,Toronto,High School,2,62200
+QA Engineer,Remote,Bachelor's,3,50900
+QA Engineer,New York,Bachelor's,0,54900
+UX Designer,London,Master's,0,61300
+Database Administrator,San Francisco,Bachelor's,3,82000
+Database Administrator,Bengaluru,Bachelor's,3,36400
